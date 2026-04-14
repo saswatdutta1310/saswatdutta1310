@@ -9,7 +9,7 @@
 <br/>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=120&section=footer&text=Thanks+for+visiting!+%F0%9F%99%8F&fontSize=18&fontColor=8b949e&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=120&section=footer&text=Saswat-Dutta+%F0%9F%99%8F&fontSize=18&fontColor=8b949e&animation=twinkling&fontAlignY=65" width="100%"/>
 
 ![](https://visitcount.itsvg.in/api?id=saswatdutta1310&icon=6&color=0)
 
