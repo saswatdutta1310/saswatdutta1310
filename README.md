@@ -7,6 +7,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=const+role+%3D+%22BTech+CSE+(AI+%26+ML)+Student%22%3B;const+focus+%3D+%22Full-Stack+%2B+AI%2FML%22%3B;const+status+%3D+%22Building+%26+Learning%22%3B;const+mindset+%3D+%22One+Commit+at+a+Time+%F0%9F%9A%80%22%3B" alt="Typing SVG" /></a>
 
 <br/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=120&section=footer&text=Thanks+for+visiting!+%F0%9F%99%8F&fontSize=18&fontColor=8b949e&animation=twinkling&fontAlignY=65" width="100%"/>
+
+![](https://visitcount.itsvg.in/api?id=saswatdutta1310&icon=6&color=0)
+
+</div>
+
 
 <!-- PROFILE BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=saswatdutta1310&label=Profile+Views&color=0e75b6&style=flat)
