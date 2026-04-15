@@ -154,7 +154,6 @@ const saswat = {
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
-![Snake animation](https://raw.githubusercontent.com/saswatdutta1310/saswatutta1310/output/github-contribution-grid-snake.svg)
 
 ----
 
