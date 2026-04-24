@@ -26,9 +26,7 @@
 |---|---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css&theme=dark" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite&theme=dark" /> |
-| **Cloud & Infra** | <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel&theme=dark" /> |
 | **Design** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" /> |
-| **Environment** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /> |
 
 ---
 
