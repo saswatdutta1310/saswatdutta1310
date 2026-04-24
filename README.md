@@ -1,132 +1,59 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=Hey%2C%20I'm%20Saswat%20Dutta%20%F0%9F%91%8B&fontSize=38&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=CSE%20%E2%80%A2%20AI%20%26%20ML%20%40%20SRM%20University%2C%20AP&descAlignY=58&descSize=16&descColor=8b949e" width="100%"/>
+<!-- WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=220&section=header&text=Saswat%20Dutta&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Systems&descAlignY=55&descSize=18&descColor=8b949e" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=const+role+%3D+%22BTech+CSE+(AI+%26+ML)+Student%22%3B;const+focus+%3D+%22Full-Stack+%2B+AI%2FML%22%3B;const+status+%3D+%22Building+%26+Learning%22%3B;const+mindset+%3D+%22One+Commit+at+a+Time+%F0%9F%9A%80%22%3B" alt="Typing SVG" /></a>
-
-<br/>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=120&section=footer&text=Saswat-Dutta+%F0%9F%99%8F&fontSize=18&fontColor=8b949e&animation=twinkling&fontAlignY=65" width="100%"/>
-
-![](https://visitcount.itsvg.in/api?id=saswatdutta1310&icon=6&color=0)
-
-</div>
-
-
-<!-- PROFILE BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=saswatdutta1310&label=Profile+Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/saswatdutta1310?label=Followers&style=social)](https://github.com/saswatdutta1310)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saswat-dutta-9a9588395)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saswatdutta1310@gmail.com)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=const+role+%3D+%22BTech+CSE+(AI+%26+ML)%22%3B;const+focus+%3D+%22Full-Stack+%2B+AI%2FML%22%3B;const+status+%3D+%22Building+%26+Learning%22%3B;const+mindset+%3D+%22One+Commit+at+a+Time+%F0%9F%9A%80%22%3B" alt="Typing SVG" /></a>
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
-## ⚡ About Me
+## About
 
-```typescript
-const saswat = {
-  name       : "Saswat Dutta",
-  username   : "saswatdutta1310",
-  university : "SRM University, Andhra Pradesh",
-  degree     : "BTech CSE — Artificial Intelligence & Machine Learning",
-  focus      : ["Full-Stack Development", "AI & ML", "Problem Solving"],
-  learning   : ["C/C++", "Python", "Data Structures", "OOP", "AI Fundamentals"],
-  looking_for: "Beginner-friendly collabs & real-world project guidance",
-  fun_fact   : "I turn concepts into practical skills, step by step 🚀",
-};
-```
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-🔭 **Working On** — Building a strong foundation in programming, problem-solving & CS core concepts
-
-🌱 **Currently Learning** — C/C++, Python, OOP, Data Structures, AI & ML
-
-👯 **Collaborate On** — Beginner Python/C++ projects, AI basics & college-level tech initiatives
-
-🤝 **Looking For Help** — DSA, competitive programming & real-world project guidance
-
-</td>
-<td width="50%">
-
-💬 **Ask Me About** — My CSE (AI & ML) learning journey & getting started in tech
-
-🏫 **University** — SRM University, Andhra Pradesh
-
-📍 **Location** — India
-
-⚡ **Fun Fact** — Every complex project starts with a single line of code!
-
-</td>
-</tr>
-</table>
+- Building [Nagrik Samadhan](https://github.com/saswatdutta1310/Nagrik-Samadhan---Civic-Issue-Portal-) — civic issue portal for transparent governance
+- AI-powered relationship mediator with [HeartHeaven](https://github.com/saswatdutta1310/HeartHeaven-AI-Relationship-Mediator)
+- Survival game dev — [Dead Zone](https://github.com/saswatdutta1310/Dead_Zone) in pure JavaScript
+- Accessible kiosk interfaces & smart agriculture with [Agronova](https://github.com/saswatdutta1310/Agronova)
+- BTech CSE (AI & ML) @ SRM University, AP
 
 ---
 
-## 🌐 Connect With Me
+## 🛠 Tech Stack
+
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css&theme=dark" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite&theme=dark" /> |
+| **Cloud & Infra** | <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel&theme=dark" /> |
+| **Design** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" /> |
+| **Environment** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /> |
+
+---
+
+## 🚀 Projects
+
+| 🍊 Project | 📚 What it does | 🛠 Stack |
+|:---|:---|:---|
+| [Nagrik Samadhan](https://github.com/saswatdutta1310/Nagrik-Samadhan---Civic-Issue-Portal-) | Transparent civic platform connecting citizens & authorities for issue tracking | `TypeScript` `React` `Next.js` |
+| [HeartHeaven](https://github.com/saswatdutta1310/HeartHeaven-AI-Relationship-Mediator) | AI-powered emotional intelligence platform — 24/7 digital mediator | `TypeScript` `AI` `React` |
+| [Dead Zone](https://github.com/saswatdutta1310/Dead_Zone) | Browser-based survival game with physics & real-time mechanics | `JavaScript` `HTML` `CSS` |
+| [Kiosk](https://github.com/saswatdutta1310/Kiosk) | Accessible kiosk interface with voice, gaze-tracking & multi-mode support | `HTML` `CSS` `JavaScript` |
+| [Agronova](https://github.com/saswatdutta1310/Agronova) | Smart agriculture dashboard for data-driven farming insights | `HTML` `Python` |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saswat-dutta-9a9588395)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shadiyal.1121)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/dutta_s18)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/saswatdutta022)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saswatdutta1310@gmail.com)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saswatdutta1310&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=388bfd&fire=e6edf3&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="60%" />
 
-</div>
+<br/><br/>
 
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Design & Tools**
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-- Busy Work
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
-<br><br>
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=saswatdutta1310&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1)
+<img src="https://github-readme-stats.vercel.app/api?username=saswatdutta1310&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=388bfd&text_color=e6edf3&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswatdutta1310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" width="40%" />
 
 </div>
 
@@ -136,26 +63,35 @@ const saswat = {
 
 <div align="center">
 
-[![Saswat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saswatdutta1310&bg_color=0d1117&color=58a6ff&line=388bfd&point=3fb950&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Saswat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saswatdutta1310&bg_color=0d1117&color=58a6ff&line=388bfd&point=e6edf3&area=true&hide_border=true&area_color=1f6feb)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-- Perfect Loop
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
-<br><br>
----
-
-## ✍️ Dev Quote of the Day
+## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saswatdutta1310/saswatdutta1310/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saswatdutta1310/saswatdutta1310/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/saswatdutta1310/saswatdutta1310/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
-----
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=saswatdutta1310&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)
+
+</div>
+
+---
 
 ## 🔝 Top Contributed Repositories
 
@@ -167,11 +103,47 @@ const saswat = {
 
 ---
 
+## ✍️ Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🎵 Find Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saswat-dutta-9a9588395)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saswatdutta1310)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saswatdutta1310@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dutta_saswat19)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shadiyal.1121)
+
+</div>
+
+---
+
+## 💖 Sponsor Me
+
+<div align="center">
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/saswatdutta1310)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=saswatdutta1310&label=profile+views&color=6e40c9&style=flat)
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=120&section=footer&text=Thanks+for+visiting!+%F0%9F%99%8F&fontSize=18&fontColor=8b949e&animation=twinkling&fontAlignY=65" width="100%"/>
-
-![](https://visitcount.itsvg.in/api?id=saswatdutta1310&icon=6&color=0)
 
 </div>
 
