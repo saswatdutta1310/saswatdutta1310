@@ -51,8 +51,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saswatdutta1310&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=388bfd&text_color=e6edf3&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswatdutta1310&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" width="40%" />
 
 </div>
 
