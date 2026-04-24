@@ -28,6 +28,7 @@
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite&theme=dark" /> |
 | **Design** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" /> |
 
+
 ---
 
 ## 🚀 Projects
