@@ -6,9 +6,6 @@
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=const+role+%3D+%22BTech+CSE+(AI+%26+ML)%22%3B;const+focus+%3D+%22Full-Stack+%2B+AI%2FML%22%3B;const+status+%3D+%22Building+%26+Learning%22%3B;const+mindset+%3D+%22One+Commit+at+a+Time+%F0%9F%9A%80%22%3B" alt="Typing SVG" /></a>
 
-<br/>
-
-![](https://komarev.com/ghpvc/?username=saswatdutta1310&color=blueviolet&style=flat-square&label=profile+views)
 
 </div>
 
@@ -30,12 +27,9 @@
 |---|---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css&theme=dark" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite&theme=dark" /> |
-| **Cloud & Infra** | <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel&theme=dark" /> |
 | **Design** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" /> |
-| **Environment** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /> |
 
-
----
+-----
 
 ## 🚀 Projects
 
@@ -81,28 +75,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=saswatdutta1310&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-[![](https://github-contributor-stats.vercel.app/api?username=saswatdutta1310&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/saswatdutta1310)
-
-</div>
-
----
-
 
 ## 🎵 Find Me
 
@@ -116,6 +88,7 @@
 
 </div>
 
-<!-- Built with ❤️ by Saswat Dutta -->
+![](https://komarev.com/ghpvc/?username=saswatdutta1310&color=blueviolet&style=flat-square&label=profile+views)
 
+<!-- Built with ❤️ by Saswat Dutta -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=120&section=footer" width="100%"/>
