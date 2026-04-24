@@ -16,7 +16,7 @@
 - Building [Nagrik Samadhan](https://github.com/saswatdutta1310/Nagrik-Samadhan---Civic-Issue-Portal-) — civic issue portal for transparent governance
 - AI-powered relationship mediator with [HeartHeaven](https://github.com/saswatdutta1310/HeartHeaven-AI-Relationship-Mediator)
 - Survival game dev — [Dead Zone](https://github.com/saswatdutta1310/Dead_Zone) in pure JavaScript
-- Accessible kiosk interfaces & smart agriculture with [Agronova](https://github.com/saswatdutta1310/Agronova)
+- Accessible kiosk interfaces .
 - BTech CSE (AI & ML) @ SRM University, AP
 
 ---
@@ -39,7 +39,6 @@
 | [HeartHeaven](https://github.com/saswatdutta1310/HeartHeaven-AI-Relationship-Mediator) | AI-powered emotional intelligence platform — 24/7 digital mediator | `TypeScript` `AI` `React` |
 | [Dead Zone](https://github.com/saswatdutta1310/Dead_Zone) | Browser-based survival game with physics & real-time mechanics | `JavaScript` `HTML` `CSS` |
 | [Kiosk](https://github.com/saswatdutta1310/Kiosk) | Accessible kiosk interface with voice, gaze-tracking & multi-mode support | `HTML` `CSS` `JavaScript` |
-| [Agronova](https://github.com/saswatdutta1310/Agronova) | Smart agriculture dashboard for data-driven farming insights | `HTML` `Python` |
 
 ---
 
