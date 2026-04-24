@@ -11,13 +11,13 @@
 
 ---
 
-## Hello
+## Hello :
 
-- Building [Nagrik Samadhan](https://github.com/saswatdutta1310/Nagrik-Samadhan---Civic-Issue-Portal-) — civic issue portal for transparent governance
-- AI-powered relationship mediator with [HeartHeaven](https://github.com/saswatdutta1310/HeartHeaven-AI-Relationship-Mediator)
-- Survival game dev — [Dead Zone](https://github.com/saswatdutta1310/Dead_Zone) in pure JavaScript
-- Accessible kiosk interfaces .
-- BTech CSE (AI & ML) @ SRM University, AP
+- Curious about how things work — from code to complex systems  
+- Exploring backend engineering, scalable systems, and privacy-first tech  
+- I enjoy breaking down problems and building practical solutions  
+- Always learning, experimenting, and pushing beyond the basics  
+- B.Tech CSE (AI & ML) @ SRM University, AP
 
 ---
 
