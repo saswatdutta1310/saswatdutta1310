@@ -103,15 +103,6 @@
 
 ---
 
-## ✍️ Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
 
 ## 🎵 Find Me
 
@@ -122,28 +113,6 @@
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saswatdutta1310@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dutta_saswat19)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shadiyal.1121)
-
-</div>
-
----
-
-## 💖 Sponsor Me
-
-<div align="center">
-
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/saswatdutta1310)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=saswatdutta1310&label=profile+views&color=6e40c9&style=flat)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=120&section=footer&text=Thanks+for+visiting!+%F0%9F%99%8F&fontSize=18&fontColor=8b949e&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
 
