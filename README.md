@@ -49,9 +49,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saswatdutta1310&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=388bfd&fire=e6edf3&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="60%" />
 
-<br/><br/>
-
-
 </div>
 
 ---
