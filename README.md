@@ -11,7 +11,7 @@
 
 ---
 
-## About
+## Hello
 
 - Building [Nagrik Samadhan](https://github.com/saswatdutta1310/Nagrik-Samadhan---Civic-Issue-Portal-) — civic issue portal for transparent governance
 - AI-powered relationship mediator with [HeartHeaven](https://github.com/saswatdutta1310/HeartHeaven-AI-Relationship-Mediator)
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Stacks
 
 | | |
 |---|---|
@@ -43,7 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Graph
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten
+## 🐍 Underrated
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 </div>
 
 
-## 🎵 Find Me
+## Connect
 
 <div align="center">
 
