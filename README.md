@@ -15,7 +15,7 @@
 
 - Curious about how things work — from code to complex systems  
 - Exploring backend engineering, scalable systems, and privacy-first tech  
-- I enjoy breaking down problems and building practical solutions  
+  
 - Always learning, experimenting, and pushing beyond the basics  
 - B.Tech CSE (AI & ML) @ SRM University, AP
 
