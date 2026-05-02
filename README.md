@@ -1,15 +1,3 @@
-<div align="center">
-
-<!-- WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=220&section=header&text=Saswat%20Dutta&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Systems&descAlignY=55&descSize=18&descColor=8b949e" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=const+role+%3D+%22BTech+CSE+(AI+%26+ML)%22%3B;const+focus+%3D+%22Full-Stack+%2B+AI%2FML%22%3B;const+status+%3D+%22Building+%26+Learning%22%3B;const+mindset+%3D+%22One+Commit+at+a+Time+%F0%9F%9A%80%22%3B" alt="Typing SVG" /></a>
-
-
-</div>
-
----
 
 ## Hello :
 
