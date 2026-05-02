@@ -37,18 +37,6 @@
 
 </div>
 
----
-
-## 📈 Graph
-
-<div align="center">
-
-[![Saswat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saswatdutta1310&bg_color=0d1117&color=58a6ff&line=388bfd&point=e6edf3&area=true&hide_border=true&area_color=1f6feb)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🐍 Underrated
 
 <div align="center">
