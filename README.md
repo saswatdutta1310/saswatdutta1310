@@ -8,19 +8,18 @@
 
 ---
 
-## 🛠 Stacks
+## Stacks
 
 | | |
-|---|---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css&theme=dark" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite&theme=dark" /> |
 | **Design** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" /> |
 
 -----
 
-## 🚀 Projects
+## Projects
 
-| 🍊 Project | 📚 What it does | 🛠 Stack |
+| Project | What it does | Stack |
 |:---|:---|:---|
 | [Nagrik Samadhan](https://github.com/saswatdutta1310/Nagrik-Samadhan---Civic-Issue-Portal-) | Transparent civic platform connecting citizens & authorities for issue tracking | `TypeScript` `React` `Next.js` |
 | [HeartHeaven](https://github.com/saswatdutta1310/HeartHeaven-AI-Relationship-Mediator) | AI-powered emotional intelligence platform — 24/7 digital mediator | `TypeScript` `AI` `React` |
@@ -29,7 +28,7 @@
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
@@ -37,7 +36,7 @@
 
 </div>
 
-## 🐍 Underrated
+## Underrated
 
 <div align="center">
 
