@@ -79,7 +79,3 @@
   <img src="https://komarev.com/ghpvc/?username=saswatdutta1310&color=blueviolet&style=flat-square&label=profile+views" alt="profile views" />
 </div>
 
-<br/>
-
-<!-- Built with ❤️ by Saswat Dutta -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=120&section=footer" width="100%"/>
