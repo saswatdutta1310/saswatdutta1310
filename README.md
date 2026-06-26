@@ -18,17 +18,6 @@
 
 -----
 
-## Projects
-
-| Project | What it does | Stack |
-|:---|:---|:---|
-| [Nagrik Samadhan](https://github.com/saswatdutta1310/Nagrik-Samadhan---Civic-Issue-Portal-) | Transparent civic platform connecting citizens & authorities for issue tracking | `TypeScript` `React` `Next.js` |
-| [HeartHeaven](https://github.com/saswatdutta1310/HeartHeaven-AI-Relationship-Mediator) | AI-powered emotional intelligence platform — 24/7 digital mediator | `TypeScript` `AI` `React` |
-| [Dead Zone](https://github.com/saswatdutta1310/Dead_Zone) | Browser-based survival game with physics & real-time mechanics | `JavaScript` `HTML` `CSS` |
-| [Kiosk](https://github.com/saswatdutta1310/Kiosk) | Accessible kiosk interface with voice, gaze-tracking & multi-mode support | `HTML` `CSS` `JavaScript` |
-
----
-
 ## Stats
 
 <div align="center">
