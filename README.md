@@ -1,7 +1,7 @@
 
 ## Hello :
 
-- Curious about how things work — from code to complex systems  
+- Curious about how things work from code to complex systems  
 - Exploring backend engineering, scalable systems, and privacy-first tech  
 - Always learning, experimenting, and pushing beyond the basics  
 - B.Tech CSE (AI & ML) @ SRM University, AP
