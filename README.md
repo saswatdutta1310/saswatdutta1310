@@ -8,16 +8,6 @@
 
 ---
 
-## Stacks
-
-| | |
-|-|-|
-| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css&theme=dark" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,vite&theme=dark" /> |
-| **Design** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" /> |
-
------
-
 ## Stats
 
 <div align="center">
